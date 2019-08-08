@@ -41,4 +41,4 @@ while True:
 
 
   print("Moisture:", output)
-  sleep(2.4)
+  sleep(2.5)
